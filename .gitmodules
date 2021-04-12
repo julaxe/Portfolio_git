@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/julaxe/JulianEscobar.github.io.git
+	branch = main
