@@ -2,7 +2,7 @@
 title : "I'm Julian Escobar Echeverri"
 # full screen navigation
 first_name : "Julian"
-last_name : "Escobar Echeverri"
+last_name : "Escobar"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
@@ -13,7 +13,6 @@ occupations:
 slider_images:
 - "images/slider/slider-1.jpg"
 - "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
 
 # button
 button:

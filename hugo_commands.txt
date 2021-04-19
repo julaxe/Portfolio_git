@@ -1,0 +1,25 @@
+hugo -t somrat
+cd public
+git remote -v (maybe we can omit this)
+git status
+git add .
+git commit -m "name of commit"
+git push origin main
+
+things to do:
+-Change images:
+-Change icons
+-Change gifs of waiting time
+-Change portfolio.
+    -Game Ubisoft -> video
+    -Game Qbert -> video
+    -Game Car Combat ->video
+    -Game Monster Slayer ->video
+    -Maze 3D -> gif?
+    -Game Pinball
+    -Game AI
+    -Thesis?
+
+-Change Texts of CV and others.
+-Handle Download CV
+-Handle Submit Contact.

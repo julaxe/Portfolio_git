@@ -5,30 +5,37 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "https://drive.google.com/file/d/1a38cDnKmA-huUWi6uQgxHKzq5W-mmk9o/view?usp=sharing"
+
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "EDUCATION / EXPERIENCE"
   experience_list:
+      # experience item loop
+    - name : "George Brown College"
+      company : "Game Programming"
+      duration : "2020-2022"
+      content : "Created multiples games, going beyond the requirements of the assignments and achiving the Dean's List every semester"
+          # experience item loop
+    - name : "University EIA"
+      company : "Mechatronic engineer"
+      duration : "2012-2018"
+      content : "Made a thesis about a Drone controller by visual feedback, it was designed to help banana farms in the growing cycle"
     # experience item loop
     - name : "Web Developer"
-      company : "Fiverr.com"
+      company : "S4DS Direct Selling Software"
+      duration : "2015-2016"
+      content : "I work with HTML, CSS, Javascript and Java to create websites and web applications related to Direct selling (like herbalife)"
+      
+    # experience item loop
+    - name : "Professional Gamer"
+      company : "Dash9 Gaming and Mad Lions Colombia"
       duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      content : "Participated in the best league of 'League of legends' in Latinoamerica, winning international tournaments and handled creation of content and meetings with fans "
       
-    # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+
 
 ############################### Skill #################################
 skill:
@@ -36,20 +43,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
+    - name : "C++"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "C#"
+      percentage : "80%"
+      
+    # skill item loop
+    - name : "Unity"
+      percentage : "60%"
+      
+    # skill item loop
+    - name : "Unreal"
+      percentage : "50%"
 
 
 # custom style
@@ -58,4 +65,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Hi I'm Julian, also known as Julaxe in the gamer world. I'm a professional gamer and a Mechatronic engineer, currently studying Game programming in George Brown College. I love to code and challenge myself with new adventures and experiences. I try to learn something new everyday and to enjoy every moment of life. <br> <br>In this webpage you can find my resume and my portfolio with some of the games that I've done. If you want to contact me, please feel free to use any social media or fill up the contact form in this webpage. Let's connect!
