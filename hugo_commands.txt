@@ -1,3 +1,8 @@
+if wanna create the submodule again
+git submodule add -b main https://github.com/julaxe/julaxe.github.io.git public
+
+para editar, se buildea y despues se copia el folder de public y se pega en el de build o en donde esta el clon de githubpages
+
 hugo -t somrat
 cd public
 git remote -v (maybe we can omit this)
